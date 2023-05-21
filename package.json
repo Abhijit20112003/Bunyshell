@@ -1,0 +1,19 @@
+{
+  "name": "bunyshell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhijit20112003/Bunyshell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhijit20112003/Bunyshell/issues"
+  },
+  "homepage": "https://github.com/Abhijit20112003/Bunyshell#readme"
+}
